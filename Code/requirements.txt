@@ -1,0 +1,4 @@
+numpy
+pandas
+networkx[default] == 2.6.3
+seaborn==0.11.2
